@@ -52,9 +52,9 @@ export default function Portfolio() {
       period: "June 2025 - July 2025",
       location: "Remote",
       achievements: [
-        "Reduced deployment time by 75% through CI/CD optimization",
-        "Implemented monitoring stack serving 50+ microservices",
-        "Led migration to Kubernetes, improving scalability by 300%",
+        "Research the space sector and exploring oppunities in it in GCC Countries with a team of 7 people",
+        "Implement a detailed policy framework for setting up space companies in GCC countries",
+        "Provides a satisfaction and approval with the client and supervisor while presenting the policy framework",
       ],
     }
   ]
