@@ -3,7 +3,6 @@
 import { Badge } from "@/components/ui/badge"
 import { Button } from "@/components/ui/button"
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/components/ui/card"
-import { link } from "fs"
 import {
   Code2,
   Database,
@@ -11,7 +10,6 @@ import {
   Github,
   Linkedin,
   Mail,
-  ExternalLink,
   Calendar,
   MapPin,
   Shield,
