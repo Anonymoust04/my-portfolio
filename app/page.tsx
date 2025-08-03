@@ -268,9 +268,9 @@ export default function Portfolio() {
       {/* Contact Section */}
       <section id="contact" className="py-16 px-6">
         <div className="max-w-4xl mx-auto text-center">
-          <h2 className="text-3xl font-bold mb-4">Let's Connect</h2>
+          <h2 className="text-3xl font-bold mb-4">Let&#39;s Connect</h2>
           <p className="text-slate-400 mb-8">
-            Interested in collaborating or discussing opportunities? I'd love to hear from you.
+            Interested in collaborating or discussing opportunities? I&#39;d love to hear from you.
           </p>
           <div className="flex justify-center gap-6">
             <Button size="lg" className="bg-emerald-600 hover:bg-emerald-700">
